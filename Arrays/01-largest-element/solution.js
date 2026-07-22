@@ -5,6 +5,6 @@ function largest_element_ar(arr) {
       largest = arr[i];
     }
   }
-  console.log(largest);
+  return largest;
 }
-largest_element_ar([2, 7, 1, 9, 5]);
+console.log(largest_element_ar([2, 7, 1, 9, 5]));
