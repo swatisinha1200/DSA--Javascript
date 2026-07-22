@@ -18,9 +18,15 @@ It includes:
 - [ ] Recursion
 - [ ] Sorting
 - [ ] Searching
+- [ ] Binary search
+- [ ] Hashing
 - [ ] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Trees
+- [ ] BST
+- [ ] Heaps
 - [ ] Graphs
+- [ ] Greedy
+- [ ] Backtracking
 - [ ] Dynamic Programming
